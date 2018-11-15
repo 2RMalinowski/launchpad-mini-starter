@@ -97,6 +97,7 @@ display_box(0x90, mygrid, color)
 # display_box(0x90, loc, color)
 
 
+
 # response = ask_number()
 # print(response)
 # loc = get_loc(response)
